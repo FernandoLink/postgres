@@ -1,6 +1,6 @@
 select NOW();
 
-create database LINK;
+create database link;
 
 drop database link;
 
